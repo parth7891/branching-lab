@@ -17,4 +17,9 @@ jobs:
             echo "README.md is missing or empty!"
             exit 1
           fi
+<<<<<<< HEAD
           echo "README.md check passed."
+=======
+          echo "README.md check passed."
+          
+>>>>>>> 5379044 (Add README check workflow)
